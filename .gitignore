@@ -5,4 +5,4 @@
 *.txt
 
 # Ignore __Pycache__
-pycache/*
+**/__pycache__
